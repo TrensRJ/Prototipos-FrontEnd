@@ -10,9 +10,9 @@ Este repositório tem como objetivo reunir, organizar e versionar todos os templ
 
 Para subir um novo template front-end proveniente do Lovable para este repositório, siga o fluxo abaixo:
 
-1. **Gerar um token no GitHub**
-   - Acesse as configurações da sua conta GitHub em **Settings > Developer settings > Personal access tokens**.
-   - Crie um token (fine-grained ou clássico) com as permissões necessárias para leitura e escrita no repositório `TrensRJ/Prototipos-FrontEnd`.
+1. **Solicite acesso a um token do GitHub ao administrador**
+   - O token é gerado no Github pelo administrador da conta**.
+   - Após receber acesso, siga os próximos passos de configuração do token na ferramenta Lovable `TrensRJ/Prototipos-FrontEnd`.
 
 2. **Configurar o token na ferramenta Lovable**
    - No Lovable, conecte a integração com o GitHub utilizando o token gerado.
